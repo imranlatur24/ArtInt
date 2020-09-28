@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "880118347567",
+    "firebase_url": "https://artint-68b1f.firebaseio.com",
+    "project_id": "artint-68b1f",
+    "storage_bucket": "artint-68b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880118347567:android:2ed7fe0581e6dcef",
+        "android_client_info": {
+          "package_name": "otpex2.root.example.com.artint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880118347567-j30tpulm3s9i1spm95ir5b5glprsdhpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "otpex2.root.example.com.artint",
+            "certificate_hash": "bbf520ce4168450cc30f36be1f0a369918e6f6d9"
+          }
+        },
+        {
+          "client_id": "880118347567-hlmn9o1ong64fqtf7a53bqoillif45cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClLUjjEBB9QAJ5_BwgU6vFgvtmOFiqMaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880118347567-hlmn9o1ong64fqtf7a53bqoillif45cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

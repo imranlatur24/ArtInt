@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context="purpose.DorvisPurpose">
+    <TextView
+        android:id="@+id/purposetext"
+        android:layout_width="500dp"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:text="Dorvis Telling Her PURPOSE...."/>
+    <Button
+        android:id="@+id/purposebutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GoTo Back"
+        android:onClick="backpurpose"
+        android:layout_gravity="right"/>
+    />
+</LinearLayout>

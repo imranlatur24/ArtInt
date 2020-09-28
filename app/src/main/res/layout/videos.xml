@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context="videos.VideosActivity">
+    <TextView
+        android:id="@+id/ringtext"
+        android:layout_width="100dp"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:text="Videos Activated...."/>
+    <Button
+        android:id="@+id/backbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GoTo Back"
+        android:onClick="backvideos"
+        android:layout_gravity="right"/>
+    <VideoView
+        android:layout_width="400dp"
+        android:layout_height="280dp"
+        android:id="@+id/video"/>
+</LinearLayout>

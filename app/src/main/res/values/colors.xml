@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C0C0C0</color>
+    <color name="colorPrimaryDark">#C0C0C0</color>
+    <color name="colorAccent">#C0C0C0</color>
+    <color name="colorBackground">#C0C0C0</color>
+    <color name="ic_profile_icon">#f06292</color>
+    <color name="ic_offer_icon">#ff8a64</color>
+    <color name="ic_local_offer">#7988cb</color>
+    <color name="ic_support">#4db5ac</color>
+    <color name="ic_offer_icon2">#EA80FC</color>
+    <color name="ic_local_offer2">#FF8A80</color>
+    <color name="ic_support2">#CDDC39</color>
+    <color name="ic_support3">#84FFFF</color>
+    <color name="ic_local_offer3">#00C853</color>
+    <color name="ic_settings_icon">#feb74d</color>
+    <color name="ic_report_icon">#e57373</color>
+    <color name="white">#FFFFFF</color>
+</resources>
